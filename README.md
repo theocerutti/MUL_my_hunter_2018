@@ -21,5 +21,5 @@ CSFML [Download](https://www.sfml-dev.org/download/csfml/index-fr.php)
 
 ## View
 
-![my_hunter](https://user-images.githubusercontent.com/44285344/48670698-e39a8880-eb1b-11e8-9202-ae12654db186.png)
+![my_hunter](https://user-images.githubusercontent.com/44285344/49109580-5b3e8500-f28b-11e8-8063-ff0c2f87c23b.png)
 
